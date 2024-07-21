@@ -11,5 +11,5 @@ noButton.addEventListener('mouseover', () => {
 });
 
 yesButton.addEventListener('click', () => {
-    responseDiv.textContent = "Thanks, we will meet on next Saturday at my place :)";
+    responseDiv.textContent = "Thanks, I knew you were gonna say yes! We will meet on next Saturday at my place :)";
 });
